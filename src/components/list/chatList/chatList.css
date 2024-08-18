@@ -50,8 +50,8 @@
         border-bottom: 1px solid #dddddd35;
 
         img{
-            height: 50px;
-            width: 50px;
+            height: 45px;
+            width: 45px;
             border-radius: 50%;
             object-fit: cover;
         }   
@@ -74,7 +74,7 @@
 
 
 .chatList::-webkit-scrollbar {
-    width: 3px;
+    width: 5px;
 }
 /* Hiển thị thanh cuộn khi người dùng cuộn */
 .chatList:hover::-webkit-scrollbar {
